@@ -2,7 +2,6 @@
 
 Repository dedicat **descărcărilor** pentru aplicația **Convertor Offline Extrase PDF → CSV**.
 
-- Codul sursă: [DrawbridgeOfficial/ConvertorExtrasOffline](https://github.com/DrawbridgeOfficial/ConvertorExtrasOffline)
 - Ultima versiune: **v1.3.1** (vezi tab-ul [Releases](https://github.com/DrawbridgeOfficial/ConvertorExtrasOffline-Releases/releases))
 
 ## Ce face aplicația
