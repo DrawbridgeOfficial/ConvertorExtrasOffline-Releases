@@ -2,13 +2,13 @@
 
 Repository dedicat **descărcărilor** pentru aplicația **Convertor Offline Extrase PDF → CSV**.
 
-- Ultima versiune: **v1.5.5** (vezi tab-ul [Releases](https://github.com/DrawbridgeOfficial/ConvertorExtrasOffline-Releases/releases))
+- Ultima versiune: **v1.5.6** (vezi tab-ul [Releases](https://github.com/DrawbridgeOfficial/ConvertorExtrasOffline-Releases/releases))
 
 ## Ce face aplicația
 
 Transformă extrasele de cont în format PDF (nativ, nu scanări) în fișiere CSV unificate, compatibile Excel românesc:
 
-- **Bănci suportate:** ING, Raiffeisen, Banca Transilvania, BCR, CEC, Libra Bank, Intesa Sanpaolo Bank (ISPRO online banking)
+- **Bănci suportate:** ING, Raiffeisen, Banca Transilvania, BCR, CEC, Libra Bank, Intesa Sanpaolo Bank (ISPRO online banking), BRD (MyBRD Net)
 - **100% offline** — datele bancare nu părăsesc calculatorul
 - Detectare automată a băncii, procesare batch, drag & drop
 - CSV: delimitator `;`, UTF-8 cu BOM, virgulă zecimală
